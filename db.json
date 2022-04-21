@@ -15,5 +15,19 @@
             "name": "Wonder Woman 2",
             "alterEgo": "Princess Diana"
         }
+    ],
+    "profession": [
+        {
+            "id": 1,
+            "value": "developer"
+        },
+        {
+            "id": 2,
+            "value": "designer"
+        },
+        {
+            "id": 3,
+            "value": "reporter"
+        }
     ]
 }
