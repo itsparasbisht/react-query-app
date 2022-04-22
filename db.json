@@ -29,5 +29,17 @@
             "id": 3,
             "value": "reporter"
         }
+    ],
+    "users": [
+        {
+            "id": "paras@mail.in",
+            "channelId": "paras"
+        }
+    ],
+    "channels": [
+        {
+            "id": "paras",
+            "courses": ["react", "express", "next.js"]
+        }
     ]
 }
