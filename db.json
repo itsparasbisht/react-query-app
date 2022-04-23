@@ -41,5 +41,47 @@
             "id": "paras",
             "courses": ["react", "express", "next.js"]
         }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "red"
+        },
+        {
+            "id": 2,
+            "label": "black"
+        },
+        {
+            "id": 3,
+            "label": "purple"
+        },
+        {
+            "id": 4,
+            "label": "cyan"
+        },
+        {
+            "id": 5,
+            "label": "golden"
+        },
+        {
+            "id": 6,
+            "label": "silver"
+        },
+        {
+            "id": 7,
+            "label": "brown"
+        },
+        {
+            "id": 8,
+            "label": "yellow"
+        },
+        {
+            "id": 9,
+            "label": "pink"
+        },
+        {
+            "id": 10,
+            "label": "green"
+        }
     ]
 }
