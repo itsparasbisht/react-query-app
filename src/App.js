@@ -10,6 +10,7 @@ import ParallelQueries from './components/ParallelQueries';
 import DynamicParallelQueries from './components/DynamicParallelQueries';
 import DependetQueries from './components/DependetQueries';
 import PaginatedQueries from './components/PaginatedQueries';
+import MyForm from './components/MyForm';
 
 function App() {
   const queryClient = new QueryClient()
@@ -38,6 +39,7 @@ function App() {
             <Route path='/super-heroes' element={<SuperHeroes />} />
             <Route path='/rq-super-heroes' element={<RQSuperHeroes />} />
             <Route path='/rq-paginated' element={<PaginatedQueries />} />
+            <Route path='/form' element={<MyForm />} />
             <Route path='/' element={<Home />} />
           </Routes>
         </div>
